@@ -1,1 +1,2 @@
-An even that took place at the YACHT office in Utrecht.
+PowerShell-S1.pdf - Presentation
+PowerShell-S1-Demo.ps1 - Demo that follows, including examples
